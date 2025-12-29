@@ -34,18 +34,19 @@ PCB :-
 
 <h2> Bill of Materials  </h2>
 And finally here is the all the materials I used :-  
-|Serial|Component Used            |      |Quantity|
-|------|--------------------------|------|--------|
-|      |                          |      |        |
-|1.    |Seeed XIAO RP2040         |      |1       |
-|      |                          |      |        |
-|2.    |MX-Style switches         |      |16      |
-|      |                          |      |        |
-|3.    |Through-hole 1N4148 Diodes|      |16      |
-|      |                          |      |        |
-|4.    |0.91 inch OLED            |      |1       |
-|      |                          |      |        |
-|5.    |Blank DSA keycaps         |      |16      |
-|      |                          |      |        |
-|6.    |SK6812 MINI-E LEDs        |      |16      |
+|Serial|Component Used            |      |Quantity|  
+|------|--------------------------|------|--------|  
+|      |                          |      |        |  
+|1.    |Seeed XIAO RP2040         |      |1       |  
+|      |                          |      |        |  
+|2.    |MX-Style switches         |      |16      |  
+|      |                          |      |        |  
+|3.    |Through-hole 1N4148 Diodes|      |16      |  
+|      |                          |      |        |  
+|4.    |0.91 inch OLED            |      |1       |  
+|      |                          |      |        |  
+|5.    |Blank DSA keycaps         |      |16      |  
+|      |                          |      |        |  
+|6.    |SK6812 MINI-E LEDs        |      |16      |  
+
 
